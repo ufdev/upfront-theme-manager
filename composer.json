@@ -1,0 +1,10 @@
+{
+    "name": "wpmu/reset-uf",
+    "description": "WPMU UF Reset manager",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/bappi-d-great/reset-wpmu-upfront-themes"
+        }
+    ]
+}
