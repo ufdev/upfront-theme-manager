@@ -3,7 +3,7 @@
 Plugin Name: Upfront Theme Manager
 Plugin URI:  http://premium.wpmudev.org
 Description: Reset, Export and Import Upfront themes.
-Version:     1.1.1
+Version:     1.1.2
 Author:      Ashok, Philipp (Incsub)
 Author URI:  http://premium.wpmudev.org/
 Textdomain:  utm
@@ -74,6 +74,7 @@ if ( ! class_exists( 'Theme_Manager_UF' ) ) {
 				'uf-panino',
 				'uf-scribe',
 				'uf-spirit',
+                                'uf-parrot'
 			);
 			$all_wp_themes = array_keys( wp_get_themes() );
 			$this->_themes = array_intersect( $known_uf_themes, $all_wp_themes );
