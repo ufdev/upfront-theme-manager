@@ -74,7 +74,8 @@ if ( ! class_exists( 'Theme_Manager_UF' ) ) {
 				'uf-panino',
 				'uf-scribe',
 				'uf-spirit',
-                                'uf-parrot'
+                'uf-parrot',
+                'uf-luke-and-sara'
 			);
 			$all_wp_themes = array_keys( wp_get_themes() );
 			$this->_themes = array_intersect( $known_uf_themes, $all_wp_themes );
