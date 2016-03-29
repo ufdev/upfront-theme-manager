@@ -273,7 +273,7 @@ if ( ! class_exists( 'Theme_Manager_UF' ) ) {
 				<table cellpadding="5" cellspacing="5" width="100%">
 					<tr>
 						<td valign="top" width="200">
-							<b><?php _e( 'Upload the csv:', RUT_LANG ); ?></b>
+							<b><?php _e( 'Upload json file:', RUT_LANG ); ?></b>
 						</td>
 						<td>
 							<input type="file" name="uf_import_name">
