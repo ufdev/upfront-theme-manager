@@ -1,2 +1,2 @@
 # reset-wpmu-upfront-themes
-Reset WPMU Upfront Themes
+Upfront Theme Manager
