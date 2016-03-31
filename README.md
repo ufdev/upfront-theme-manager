@@ -4,6 +4,10 @@ A WordPress plugin that allows for [Upfront](https://premium.wpmudev.org/blog/in
 
 ![Upfront Theme Manager](https://cloud.githubusercontent.com/assets/6676674/14185899/d4c43860-f749-11e5-810f-db92db1b08e7.png)
 
+## Install
+
++ [Download Plugin](https://github.com/ufdev/upfront-theme-manager/archive/master.zip)
+
 ## License
 
 [GPL v2 or later](LICENSE)
