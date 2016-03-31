@@ -6,7 +6,7 @@ A WordPress plugin that allows for [Upfront](https://premium.wpmudev.org/blog/in
 
 ## Install
 
-+ [Download Plugin](https://github.com/ufdev/upfront-theme-manager/archive/master.zip)
+[Download Plugin](https://github.com/ufdev/upfront-theme-manager/archive/master.zip)
 
 ## License
 
