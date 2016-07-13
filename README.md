@@ -1,3 +1,5 @@
+**DEPRECIATED** - Built into Upfront core
+
 # Upfront Theme Manager
 
 A WordPress plugin that allows for [Upfront](https://premium.wpmudev.org/blog/introducing-upfront/) theme data to be exported and imported, along with an easy way to reset to the original child theme.
